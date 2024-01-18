@@ -9,6 +9,18 @@ computer will keep guessing until it gets the right number
 
 https://alchemist.camp/episodes/guessing-game
 
+## Running the program
+
+In your terminal, run `iex`
+
+```
+c "guessing_game.ex"
+
+# after guessing game is compiled
+
+GuessingGame.guess 1, 50
+```
+
 ## Things learnt
 
 1. Guard clause for functions
